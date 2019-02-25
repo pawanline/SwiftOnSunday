@@ -1,7 +1,7 @@
 # SwiftOnSunday
 
-##This include working  projects tutorials from scratch by PaulHudson [a link](https://twitter.com/twostraws)
+##This include working  projects tutorials from scratch by [PaulHudson](https://twitter.com/twostraws)
 
-Youtube link :- [a link](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ/playlists)
+Youtube link :- [playlist link](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ/playlists)
 
-:)Happy Coding 
+:smiley: Happy Coding :heart: Swift 
