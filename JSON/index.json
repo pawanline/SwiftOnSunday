@@ -1,0 +1,21 @@
+{
+    "screens": [
+        {
+            "id": "home",
+            "title" : "Home",
+            "type"  : "table",
+            "row"   : [
+                {
+                    "title" : "First row"
+                },
+                {
+                    "title" : "Second row"
+                },
+                {
+                    "title" : "Third row"
+                }
+            ]
+        }
+    ]
+
+}

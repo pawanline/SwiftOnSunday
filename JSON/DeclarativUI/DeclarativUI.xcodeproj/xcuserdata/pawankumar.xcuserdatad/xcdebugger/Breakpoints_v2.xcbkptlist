@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeclarativUI/Types.swift"
+            timestampString = "573350556.856375"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetch(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeclarativUI/ViewController.swift"
+            timestampString = "573350589.719308"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeclarativUI/ViewController.swift"
+            timestampString = "573350589.719691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeclarativUI.ViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "DeclarativUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pawankumar/Documents/SwiftOnSunday/JSON/DeclarativUI/DeclarativUI/ViewController.swift"
+                  timestampString = "573350589.7644399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DeclarativUI.Screen) -&gt; () in DeclarativUI.ViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "DeclarativUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pawankumar/Documents/SwiftOnSunday/JSON/DeclarativUI/DeclarativUI/ViewController.swift"
+                  timestampString = "573350589.766243"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
