@@ -6,6 +6,8 @@ Youtube link :- [playlist link](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3
 
 :smiley: Happy Coding :heart: Swift
 
+// commmand for hosting server
+python -m SimpleHTTPServer 8090
 
 Project 7:- 
  

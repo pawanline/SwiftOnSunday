@@ -31,17 +31,21 @@ class NavigationManager {
     
     
     func fetch(completion:(Screen) -> Void) {
-        let url = URL(string: "http://localhost:8090/index.json")!
-        let data = try! Data(contentsOf: url)
-        
-        let decoder = JSONDecoder()
-        
-        let app = try! decoder.decode(Application.self, from: data)
-        
-        for screen in app.screens {
-            screens[screen.id] = screen
+        let url = URL(string: "http://localhost:8091/index.json")
+        do {
+             let data = try Data(contentsOf: url!)
+            let decoder = JSONDecoder()
+            
+            let app = try! decoder.decode(Application.self, from: data)
+            
+            for screen in app.screens {
+                screens[screen.id] = screen
+            }
+            completion(app.screens[0])
+        } catch {
+            print("error is \(error.localizedDescription)")
         }
-        completion(app.screens[0])
+ 
     }
     
 }
